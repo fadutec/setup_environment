@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Freedom Studio
-Comment=Freedom Studio
-Exec=/tools/FreedomStudio/FreedomStudio
-Icon=/tools/FreedomStudio/eclipse/icon.xpm
-Terminal=false
